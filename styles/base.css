@@ -1,0 +1,7 @@
+h1, h2, h3, h4, p, div, a {
+  @apply font-sans m-0;
+}
+
+.slidev-layout ul {
+  list-style-type: none
+}

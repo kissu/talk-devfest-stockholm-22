@@ -1,0 +1,11 @@
+[build.environment]
+  NODE_VERSION = "16"
+
+[build]
+  publish = "dist"
+  command = "npx playwright install && npx playwright install-deps && yarn build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
