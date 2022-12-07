@@ -6,11 +6,9 @@ theme: seriph
   # sans: '"DM Sans"'
 
 download: true
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://images.unsplash.com/photo-1655635643532-fa9ba2648cbe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80
+background: https://cdn.discordapp.com/attachments/945077390839787570/1019616569292242944/torobotaki_a_prototissue_robot_d2e65c79-4b0e-42ac-a007-5fb76c2b4bcd.png
 
-# photo from: https://unsplash.com/photos/qhhp1LwvPSI
+# photo from midjourney
 
 drawings:
   enabled: dev
@@ -25,9 +23,9 @@ lineNumbers: false
 colorSchema: 'dark'
 ---
 
-# Tasty 3D and crunchy robots 🤖
+# Fun, 3D and ROBOOOOTS 🤖
 
-They are stealing our jobs!
+Embrace the fun, today!
 
 <!-- This is a page note btw -->
 
@@ -201,18 +199,10 @@ layout: cover
 background: https://user-images.githubusercontent.com/5133074/171331451-8e66c500-b7d1-48ad-a222-08a5ba71a3d5.svg
 ---
 
-## What about more complex objects? 🤔
-
-<iframe class="mx-auto mt-12" width="560" height="315" src="https://www.youtube-nocookie.com/embed/v0oIFf-NDww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# What about more complex objects? 🤔
 
 <!--
-[show the map] quite a lot of things happening here, right?
-
-it was some promotion for a VueJS conference that I like!
-
-achieving this kind of video with just ThreeJS would take quite some time huh?
-
-[introduction to Blender]
+[quick introduction to Blender]
 -->
 
 ---
@@ -225,7 +215,7 @@ background: https://user-images.githubusercontent.com/5133074/171334746-70ecbd5d
 ### Of course it is, let's import our bike into a webpage! 🚲🌪️
 
 <!--
-[present troisJS page + whole 3 branches]
+[present troisJS page + whole 3 branches of the TS project]
 -->
 
 ---
@@ -257,7 +247,7 @@ background: https://user-images.githubusercontent.com/5133074/171334746-70ecbd5d
 <div class="mt-8 text-left">
 <v-clicks>
 
-- DALL-E 2.0
+- DALL-E 2.0 (chat.openai.com)
 - Midjourney
 - Stable Diffusion
 - Now...? DREAMFUSION!
@@ -293,14 +283,14 @@ background: https://user-images.githubusercontent.com/5133074/171334746-70ecbd5d
     </p>
     <p class="my-2">
       <logos-nuxt-icon class="inline h-6" />
-      <a href="https://nuxtjs.org/teams" class="ml-2">Nuxt.js Ambassador</a>
+      <a href="https://nuxtjs.org/teams" class="ml-2">NuxtJS</a> and <img class="inline h-8" src="/wtm2.svg"/><a href="https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f979/konstantin_bifert" class="ml-1">Women Techmakers</a> Ambassador
     </p>
     <p class="my-2">
       <logos-stackoverflow-icon class="inline mr-2" />
-      <a href="https://stackoverflow.com/users/8816585/kissu">Stackoverflow daily helper</a>
+      <a href="https://stackoverflow.com/users/8816585/kissu">Stackoverflow daily helper</a> (+700 days straight already)
       <p>🎥  Launched a YouTube channel 👉 <a href="https://kissu.video" target="_blank" class="font-bold text-transparent bg-clip-text bg-gradient-to-tl from-orange-400 to-pink-500" alt="konstantin's YouTube channel">www.kissu.video</a></p>
       <p><logos-twitter class="h-4" /> Tweet'ing about cool stuff 👉 <a href="https://twitter.com/kissu_io" target="_blank" class="font-bold text-transparent bg-clip-text bg-gradient-to-tl from-blue-400 to-teal-500" alt="konstantin's twitter">@kissu_io</a></p>
-      <p>✒️ Blogging really soon at 👉 <a href="https://kissu.io/" target="_blank" class="font-bold text-transparent bg-clip-text bg-gradient-to-tl from-emerald-400 to-green-500" alt="konstantin's twitter">kissu.io</a></p>
+      <p>🎨 Overall more info at 👉 <a href="https://kissu.io/" target="_blank" class="font-bold text-transparent bg-clip-text bg-gradient-to-tl from-emerald-400 to-green-500" alt="konstantin's twitter">kissu.io</a></p>
       <p>✨ I do enjoy mech keyboards, gaming, tech and DIY</p>
     </p>
   </section>
